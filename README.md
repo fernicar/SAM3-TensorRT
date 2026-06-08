@@ -127,3 +127,10 @@ Because this architecture natively leverages CUDA unified topologies out-of-the-
 ## 🤝 Open Source License
 This project is officially released under the **MIT License**.
 *Building performant pipelines takes dedication. If this accelerated your research, consider dropping a ⭐!*
+
+## 🙌 Credits
+This project builds upon the work of two repositories:
+- **dataplayer12/SAM3-TensorRT** – the original base implementation.
+- **Priyadarshini75/sam3-tensorrt-engine** – [extended and adapted engine version](https://medium.com/@priyadarshinichavan/i-built-a-9x-faster-sam-3-inference-engine-heres-how-i-migrated-meta-s-segment-anything-model-to-0709c600494d).
+
+By merging their histories, we ensure that contributions from both developers are preserved and visible in the commit log.
